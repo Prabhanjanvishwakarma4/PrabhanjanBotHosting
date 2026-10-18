@@ -329,7 +329,7 @@ def build_welcome_text(user_id: int, full_name: str) -> str:
 📢 <b>Updates:</b> {UPDATE_CHANNEL}
 🎥 <b>YouTube:</b> {YOUTUBE_CHANNEL}
 
-⚡ <b>Developed by</b> Aditya (Prabhanan Exploits)
+⚡ <b>Developed by</b> Exploits (Prabhanan Exploits)
 🔒 <b>Version:</b> 2.0"""
 
 @dp.message(Command("start"))
@@ -2399,7 +2399,7 @@ input,textarea{background:#0b0f17;color:#e6edf3;border:1px solid #30363d;border-
 <button class="nav on" data-p="over">📊 Overview</button><button class="nav" data-p="bots">🤖 Running Bots</button>
 <button class="nav" data-p="files">📁 All Files</button><button class="nav" data-p="users">👥 Users</button>
 <button class="nav" data-p="cast">📢 Broadcast</button><button class="nav" data-p="set">⚙️ Settings</button>
-<a class="nav" href="/" style="text-decoration:none">🌐 Website</a><div class="side-foot">Developed by Aditya</div></div>
+<a class="nav" href="/" style="text-decoration:none">🌐 Website</a><div class="side-foot">Developed by Exploits </div></div>
 <div id="main"><div id="top"><button class="a b" onclick="$('side').classList.toggle('open')">☰ Menu</button><b>Exploits Host Bot</b></div>
 <h2 id="ttl"></h2><div class="sub" id="st"></div><div id="view"></div></div><div id="toast"></div>
 <script>
@@ -2473,7 +2473,7 @@ footer{text-align:center;color:#6b7785;padding:28px 10px;font-size:13px;border-t
 <section id="faq"><h2>FAQ</h2>
 <details><summary>Kya ye sach mein free hai?</summary><p>Haan, koi premium plan ya upload limit nahi hai.</p></details>
 <details><summary>Kaunsi files chalti hain?</summary><p>Python (.py), Node.js (.js) aur ZIP projects.</p></details>
-<details><summary>Problem aaye to?</summary><p>Telegram pe owner @Hackerwibes2 se contact karo.</p></details></section>
+<details><summary>Problem aaye to?</summary><p>Telegram pe owner @PrabhanjanExploits se contact karo.</p></details></section>
 <section><div class="cta"><h2 style="margin-bottom:8px">Ready to host? 🚀</h2><p style="color:#9aa7b5;margin:0 0 16px">Abhi Telegram pe bot kholo.</p><a class="btn p" href="__BOTLINK__">Open Bot</a></div></section>
 <footer>Developed by <b>Exploits (Prabhanjan Exploits)</b><br><a href="__YT__">YouTube</a>&bull;<a href="__CHANNEL__">Telegram Channel</a>&bull;<a href="https://t.me/__OWNER__">Contact</a></footer></body></html>"""
 
